@@ -1,5 +1,5 @@
 
-# All-in-one-WhatsApp-scraper-and-sender
+# Telegram-Channel-Group-Scraper-adder
 Telegram-Channel-Group-Scraper-adder
 
 check software on 👇 below link
