@@ -28,11 +28,8 @@ https://bhansalisoft.com/Product/Telegram-Channel-Adder-Software
       <li>You can import csv as per format and send bulk message to all telegram member</li>
 				   <li> add telegram channel member to your channel/group</li>
            <li>  Multiple telegram account support so that you can grow your telegram channel very fast</li>
-			
-                </ul>
-         </p>
-			</div>
-			 <div class="page-header">
+		 </ul>
+         </p></div> <div class="page-header">
                 <h2>Project Requirement </h2>
 		  <hr class="notop">
 				<ul>
