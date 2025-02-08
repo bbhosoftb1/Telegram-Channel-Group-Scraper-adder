@@ -54,8 +54,7 @@ https://bhansalisoft.com/Product/Telegram-Channel-Adder-Software
 				  <li>Registration Code :  Evanto Purchase Code.</li>
 				   <li>After Registration you can Use Software.</li>
                 </ul>
-
-            </ul>
+</ul>
 			  <div class="page-header">
                 <h3>Getting Started</h3>
                 <hr class="notop">
@@ -86,13 +85,11 @@ https://bhansalisoft.com/Product/Telegram-Channel-Adder-Software
 					  <ul>
 					    <li>Click on "Get Members" button for specific group member which you want to extract</li> 
 						<img src="https://bhansalisoft.com/evantosnap/TelegramMulti/03.png"></img>
-						
-						  <li>Software will scrap all group members from telegram chat history </li>
+						<li>Software will scrap all group members from telegram chat history </li>
 						 <li>You can export all group members on excel file , click on Export Members buttons </li>
 						   <h3>Group Member add from one group to another group</h3>
 						  <li>For Add member from one group to another , select destincation group from combo box and And Click on Add member button </li> <img src="https://bhansalisoft.com/evantosnap/TelegramMulti/04.png"></img>
 					 </ul>
-		 </ul>
-				  
+		 </ul>	  
 				  
 				
