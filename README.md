@@ -23,8 +23,7 @@ https://bhansalisoft.com/Product/Telegram-Channel-Adder-Software
 <li>  Telegram Group and Channel Adder Software support Multiple telegram account so that you can grow your telegram channel very fast</li>
 <li>  Telegram Group and Channel Adder Software software using account rotation strategy so less chances for block</li>
 <li> official telegram api support</li>
-
-				      <li> scrap telegram  all channel members from chat history </li>
+ <li> scrap telegram  all channel members from chat history </li>
 <li> Send Bulk message to all telegram group members </li>
       <li>You can import csv as per format and send bulk message to all telegram member</li>
 				   <li> add telegram channel member to your channel/group</li>
